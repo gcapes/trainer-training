@@ -3,12 +3,12 @@ Motivation is the personal investment an individual has in reaching a desired ou
 Interest/relevance is strongly tied to motivation, as is whether there is an expectation of success - people are motivated to learn only when they expect to be able to achieve something.
 Motivation is based on a *subjective* value of the goal, and the expectation of success.
 Value types
-	- attainment (mastering a task)
-	- intrinsic (enjoy doing the task)
-	- instrumental (to achieve other goals)
+- attainment (mastering a task)
+- intrinsic (enjoy doing the task)
+- instrumental (to achieve other goals)
 Expectancy types
-	- outcome (specific actions result in desired outcome)
-	- efficacy (able to do the work required to achieve outcome)
+- outcome (specific actions result in desired outcome)
+- efficacy (able to do the work required to achieve outcome)
 More likely to expect success from controllable causes (ability/effort).
 Motivation highest when student attribute success to ability/effort, and poor performance 
 to lack of effort/information:
@@ -16,15 +16,15 @@ this leads to the expectation that high performance can be sustained, and poor p
 A supportive environment enhances motivation.
 
 To establish value
-	- link material to students' interest
-	- use authentic tasks
-	- show relevance for future lives
-	- be enthusiastic
+- link material to students' interest
+- use authentic tasks
+- show relevance for future lives
+- be enthusiastic
 
 To build positive expectancies
-	- appropriate level of challenge
-	- provide early success opportunities
-	- be fair
+- appropriate level of challenge
+- provide early success opportunities
+- be fair
 
 # Week 2 questions
 1. Motivation as the key driver of learning. New knowledge is always built on existing knowledge.
