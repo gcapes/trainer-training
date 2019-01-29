@@ -34,8 +34,8 @@ To build positive expectancies
 5. Responses to pre-assessment survey might enable you to tailor the course to what the learners know. Spend more time on something that most people don't already know, and move quickly over things that people can already do.
 Extra question: what's your familiarity with Git? This indicates the person's ability to contribute to lesson materials.
 6. Concept map for motivation:
-motivation is the key driver of desired learning outcome
-support from the environment, positive expectancies, and value in the goal provide the motivation
+	- motivation is the key driver of desired learning outcome
+	- support from the environment, positive expectancies, and value in the goal provide the motivation
 7. Learning is most likely to be successful if there is motivation, expectation of success, and a supportive environment. The value of a goal is subjective, but can be influenced by your enthusiasm and choice of relevant, authentic tasks.
 8. The intended audience at Carpentries workshops will primarily have performance goals: they're researchers who want to be more productive, and see programming as a 'tax' required to achieve that goal.
 At instructor training workshops, learners will primarily have learning goals: they're volunteers, who want to better understand how learning works in order to teach that to instructors.
