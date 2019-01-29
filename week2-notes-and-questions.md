@@ -1,4 +1,4 @@
-# Chapter 3
+# Chapter 3 notes
 Motivation is the personal investment an individual has in reaching a desired outcome or state.
 Interest/relevance is strongly tied to motivation, as is whether there is an expectation of success - people are motivated to learn only when they expect to be able to achieve something.
 Motivation is based on a *subjective* value of the goal, and the expectation of success.
@@ -26,7 +26,7 @@ To build positive expectancies
 - provide early success opportunities
 - be fair
 
-# Week 2 questions
+# [Week 2 questions](https://carpentries.github.io/trainer-training/02_week2_discussion_questions/index.html)
 1. Motivation as the key driver of learning. New knowledge is always built on existing knowledge.
 2. Expert blindspot - hope to cover more material than is possible.
 3. Learner mental model of someone who has just taken a Carpentries workshop - Panel A: splodges of knowledge but connections only between some of the concepts.
