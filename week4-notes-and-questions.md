@@ -84,6 +84,7 @@ Metacognition requires a growth mindset where the learner believes that they can
 	- Model inclusive language
 	- Resist a single right answer
 	- Ensure course content is not marginalizing
+	- Be aware of low-ability cues
 
 4. Most of our learners have experience with metacognitive strategies, but may not automatically apply them to the content of our workshops (content or Instructor Training). Why do you think this is? How can we support our learners in transferring these skills appropriately?
 
