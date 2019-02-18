@@ -4,6 +4,7 @@
 	- Formative assessment is a great idea, but can we have an actual example from Software Carpentry? How can we actually use a formative assessment to adapt what we teach depending on the assessment results?
 	- Getting feedback from learners is difficult
 2. What stands out?
+	- Teaching is a skill that requires practice and feedback
 	- SWC aim is to build a correct mental model: teaching how to think about a topic more so than the details of specific programming skills
 	- The need to go slowly to avoid completely demotivating a learner
 	- Instructors need feedback on learners' progress to be effective
