@@ -77,7 +77,7 @@ Metacognition requires a growth mindset where the learner believes that they can
 	2. Motivation (try to be specific!)
 		- Don't marginalize students with content which excludes certain demographics, cultural references, language
 	3. Cognition & memory
-		- Um ...
+		- Negative feelings are an extra cognitive hurdle and will hamper learning
 
 3. Which of the strategies suggested on pages 180-186 are most applicable to Carpentries workshops? In what ways might new instructors need support or guidance in implementing these?
 	- Set ground rules for interaction (code of conduct)
