@@ -2,6 +2,7 @@
 
 1. Comments, questions or replies?
 	- Formative assessment is a great idea, but can we have an actual example from Software Carpentry? How can we actually use a formative assessment to adapt what we teach depending on the assessment results?
+		- Formative assessments should be used to check understanding of what has just been taught, rather than to check whether you can skip over some material (which is the purpose of a pre-assessment).
 	- Getting feedback from learners is difficult
 2. What stands out?
 	- Teaching is a skill that requires practice and feedback
@@ -29,3 +30,5 @@
 	- Emphasise in expertise episode: expert blindspot. A therefore E misses the intermediate steps which novices need explaining
 7. Dismissive language can occur as a result of negligence, but it can also happen as a result of good intentions. Trainees are often surprised to be told that telling learners that a task is “easy” is dismissive. How would you help someone who wants to convey to learners that a task is achievable to find a way to convey that message in a more motivating way?
 	- Say something is achieveable rather than easy.
+	- "Give this a try" ...
+	- Encourage people to work together
