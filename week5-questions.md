@@ -1,4 +1,4 @@
-#[Questions](https://carpentries.github.io/trainer-training/05-week_5_discussion_questions/index.html)
+# [Questions](https://carpentries.github.io/trainer-training/05-week_5_discussion_questions/index.html)
 
 1. Comments, questions or replies?
 	- Formative assessment is a great idea, but can we have an actual example from Software Carpentry? How can we actually use a formative assessment to adapt what we teach depending on the assessment results?
