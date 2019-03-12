@@ -1,7 +1,6 @@
-# [Questions#](https://carpentries.github.io/trainer-training/08-Week_8_discussion_questions/index.html
-)
+# [Questions](https://carpentries.github.io/trainer-training/08-Week_8_discussion_questions/index.html)
 1. (OPTIONAL) Please add comments/replies to curriculum modules.
-2. 2. What questions do you have about your role as a Trainer or your participation in the Trainer community?
+2. What questions do you have about your role as a Trainer or your participation in the Trainer community?
 	-
 3. How Learning Works --- Conclusion
 What advice might you give to instructors to help them “play to their own strengths and weaknesses”?
