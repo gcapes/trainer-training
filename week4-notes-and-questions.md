@@ -59,7 +59,7 @@ Metacognition requires a growth mindset where the learner believes that they can
 - Create assignments which focus on strategizing rather than implementation
 
 #### Beliefs about intelligence and learning
-- Address beliefs about leanring directly --- ability is driven by practice, effort and adaptation, not innate ability
+- Address beliefs about learning directly --- ability is driven by practice, effort and adaptation, not innate ability
 - Set realistic expectations about how long developing particular skills might take
 
 #### Generally
