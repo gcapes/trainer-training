@@ -2,15 +2,17 @@
 Motivation is the personal investment an individual has in reaching a desired outcome or state.
 Interest/relevance is strongly tied to motivation, as is whether there is an expectation of success - people are motivated to learn only when they expect to be able to achieve something.
 Motivation is based on a *subjective* value of the goal, and the expectation of success.
+
 Value types
 - attainment (mastering a task)
 - intrinsic (enjoy doing the task)
 - instrumental (to achieve other goals)
+
 Expectancy types
 - outcome (specific actions result in desired outcome)
 - efficacy (able to do the work required to achieve outcome)
 More likely to expect success from controllable causes (ability/effort).
-Motivation highest when student attribute success to ability/effort, and poor performance 
+Motivation highest when student attribute success to ability/effort, and poor performance
 to lack of effort/information:
 this leads to the expectation that high performance can be sustained, and poor performance improved.
 A supportive environment enhances motivation.
