@@ -29,10 +29,17 @@ To build positive expectancies
 - be fair
 
 # [Week 2 questions](https://carpentries.github.io/trainer-training/02_week2_discussion_questions/index.html)
-1. Motivation as the key driver of learning. New knowledge is always built on existing knowledge.
-2. Expert blindspot - hope to cover more material than is possible.
-3. Learner mental model of someone who has just taken a Carpentries workshop - Panel A: splodges of knowledge but connections only between some of the concepts.
-4. Carpentries instructors can help learners organise their knowledge by highlighting links between concepts, and referring back to earlier material. This should be easy enough for a new instructor to implement.
+1. What stood out from this week's reading?
+   - Motivation as the key driver of learning. New knowledge is always built on existing knowledge.
+2. Review:
+   - What prior knowledge do you bring to bear for this training?
+   - Think of one thing you have learned about teaching through your own experience that you think is important or valuable.
+   - In what areas do you hope to expand your knowledge as an Instructor Trainer?
+       - Expert blindspot - hope to cover more material than is possible.
+3. Examine Figure 2.2 on p.50. How do these diagrams relate to knowledge or learner mental models that you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop?
+   - Learner mental model of someone who has just taken a Carpentries workshop - Panel A: splodges of knowledge but connections only between some of the concepts.
+4. Identify one thing that Carpentries instructors can do in a workshop to help learners organize their knowledge. Does your strategy align with any of the suggestions on p. 59-65? How easy would it be for a new instructor to employ this strategy?
+   - Carpentries instructors can help learners organise their knowledge by highlighting links between concepts, and referring back to earlier material. This should be easy enough for a new instructor to implement.
 5. Responses to pre-assessment survey might enable you to tailor the course to what the learners know. Spend more time on something that most people don't already know, and move quickly over things that people can already do.
 Extra question: what's your familiarity with Git? This indicates the person's ability to contribute to lesson materials.
 6. Concept map for motivation:
